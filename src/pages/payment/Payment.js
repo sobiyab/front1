@@ -32,7 +32,7 @@ const Payment = () => {
         pincode,
       };
   
-      fetch('/delivery', {
+      fetch('https://backend-6zyv.onrender.com/delivery', {
         method: 'POST',
         headers: {
           'Content-Type': 'application/json',
