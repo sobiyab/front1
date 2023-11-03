@@ -9,7 +9,7 @@ const Signup = () => {
     justifyContent: 'center',
     alignItems: 'center',
 
-    backgroundImage: `url('https://4.bp.blogspot.com/-CgDxhaW1SMU/U_HYFcmTmEI/AAAAAAAAACk/y3EA7S1d8Kk/s1600/shopping.jpg')`, // Set the background image here
+    backgroundImage: `url('https://img.freepik.com/free-photo/solid-gray-concrete-textured-wall_53876-110803.jpg?size=626&ext=jpg&ga=GA1.1.455358885.1692768358&semt=ais')`, // Set the background image here
   backgroundSize: 'cover', 
   
   };
@@ -115,7 +115,7 @@ const Signup = () => {
         <div className="card" style={cardStyle}>
           <div className="col-md-6 col-lg-7 d-none d-md-block">
             <img
-              src="https://img.freepik.com/premium-photo/education-distance-learning-e-learning-online-learning-are-all-types-personal-development_27634-789.jpg"
+              src="https://johnlewis.scene7.com/is/image/JohnLewis/237541331?$rsp-pdp-port-1440$"
               alt="signup form"
               className="img-fluid"
               style={imageStyle}
